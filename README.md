@@ -1,6 +1,6 @@
-<h1>Fast Food Order Website</h1>
+<h1>Film Website</h1>
 
-<p>A responsive, elegant fastfood shop website built using HTML5 and CSS3. This site showcases the best features of a modern coffee shop, including a detailed menu, customer reviews, and blog sections. With smooth transitions, a warm color palette, and a simple yet visually appealing layout, Coffee Espresso aims to give a rich experience to coffee lovers!</p>
+<p>A responsive, elegant  website built using HTML5 and CSS3. This site showcases the best features of a modern coffee shop, including a detailed menu, customer reviews, and blog sections. With smooth transitions, a warm color palette, and a simple yet visually appealing layout!</p>
 
 <h1>Preview</h1>
 
